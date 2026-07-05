@@ -6,6 +6,12 @@ This project demonstrates **API integration, asynchronous JavaScript, DOM manipu
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Live Demo:** https://ayush2008mishra.github.io/weather_site/
+
+---
+
 ## 🚀 Features
 
 - 🌍 Search weather information for any city worldwide
